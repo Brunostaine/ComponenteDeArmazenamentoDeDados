@@ -1,22 +1,23 @@
 # Frontend Mentor - solução de componente de armazenamento de dados Fylo
 
-Esta é uma solução para o [desafio do componente de armazenamento de dados Fylo no Frontend Mentor] (https://www.frontellenceor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
+Esta é uma solução para o desafio do componente de armazenamento de dados Fylo no Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
 ## Índice
 
-- [Autor] (Bruno Staine)
+- Autor - Bruno Staine
 
 ## Visão geral
 
 ### O desafio
 
-Os usuários devem ser capazes de:
-
-- Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo
+Criar o layout idel para o site, dependendo do tamanho da tela do dispositivo. Desenvolvendo a habilidade de responsividade de um site.
 
 ### Captura de tela
 
-! [] (./ screenshot.jpg)
+![alt text](https://user-images.githubusercontent.com/87622645/143943445-6ccccc09-0797-422b-b4ad-83d8a283fbb3.jpg)
+
+![alt text](https://user-images.githubusercontent.com/87622645/143943513-16c91802-4e1f-4e3c-9f28-9399112f302b.jpg)
+
 
 ### Links
 
