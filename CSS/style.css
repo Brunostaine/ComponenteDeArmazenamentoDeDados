@@ -1,11 +1,17 @@
+@import url('https://fonts.googleapis.com/css2? family = Raleway: wght @ 400; 700 & display = swap');
+
 body {
     background-image: url(../images/bg-mobile.png);
     color: white;
     display: block;
 }
 
+.principal {
+    margin-top: 50px;
+}
+
 .banner1 {
-    width: 80%;
+    width: 300px;
     height: 160px;
     padding: 8px;
     margin: 20px auto;
@@ -31,7 +37,7 @@ body {
 }
 
 .banner2 {
-    width: 80%;
+    width: 300px;
     height: 140px;
     padding: 8px;
     margin: 20px auto;
@@ -41,22 +47,20 @@ body {
 }
 
 .p-banner2 {
+    color: hsl(243, 100%, 93%);
     text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    margin-top: 20px;
+    
 }
 
-.span-banner2 {
-    background-color: white;
-    color: black;
-    padding: 30px;
-    border-radius: 10px;
-    position: absolute;
-    right: 100px;
-    bottom: 150px;
-}
+/**/
 
 .sessao-progresso {
     display: inline-block;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .progresso {
@@ -82,10 +86,48 @@ body {
     position: absolute;
     right: 3px;
   }
+
 .tamanho-banner {
+    color: hsl(243, 100%, 93%);
+    font-size: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
     display: flex;
     justify-content: space-between;
     margin-top: 6px;
+    
+}
+
+.span-banner2 {
+    background-color: white;
+    color: hsl(229, 7%, 55%);
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    
+    display: flex;
+    align-items: center;
+
+    position: absolute; 
+	left: 70px; /* posiciona a 90px para a esquerda */ 
+	right: 70px; /* posiciona a 70px para baixo */;
+    bottom:110px;
+    margin: 0 auto;
+  
+}
+
+.big-number {
+    font-size: 40px;
+    color: rgb(10, 9, 9);
+    margin-right: 10px;
+    font-weight: bold;
+    
 }
 
 .attribution {
