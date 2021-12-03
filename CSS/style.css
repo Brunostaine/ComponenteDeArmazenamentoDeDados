@@ -6,11 +6,12 @@ body {
     background-size: 100vw;
     color: white;
     display: block;
-    height: 100vh;
+    height: 100%;
 }
 
 .principal {
-    position: 10px absolute;  
+    position: 10px absolute;
+    margin-top: 100px;
 }
 
 .banner1 {
@@ -121,8 +122,10 @@ body {
 
     position: absolute; 
 	left: 70px; /* posiciona a 90px para a esquerda */ 
-	right: 70px; /* posiciona a 70px para baixo */;
-    margin: 0 auto;  
+	right: 70px; /* posiciona a 70px para baixo */
+    top: 400px;
+    margin: 0 auto; 
+    
 }
 
 .big-number {
@@ -179,5 +182,7 @@ body {
         left: 55%;
         top: 43%;
     }
-}    
+
+}       
+     
     
