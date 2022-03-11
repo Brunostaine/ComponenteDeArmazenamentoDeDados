@@ -1,9 +1,8 @@
 <h1 align="center"> solução de componente de armazenamento de dados Fylo </h1>
   
-![alt text](https://user-images.githubusercontent.com/87622645/143943445-6ccccc09-0797-422b-b4ad-83d8a283fbb3.jpg)
-
 ![alt text](https://user-images.githubusercontent.com/87622645/143943513-16c91802-4e1f-4e3c-9f28-9399112f302b.jpg)
 
+![alt text](https://user-images.githubusercontent.com/87622645/143943445-6ccccc09-0797-422b-b4ad-83d8a283fbb3.jpg)
 
 ## INDICE
 
